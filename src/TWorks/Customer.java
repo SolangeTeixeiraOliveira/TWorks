@@ -1,5 +1,5 @@
 package TWorks;
-
+/*
 public class Customer {
 	private String customerType;
 	private int qtdWeekday;
@@ -29,3 +29,5 @@ public class Customer {
 	}
 	
 }
+
+*/

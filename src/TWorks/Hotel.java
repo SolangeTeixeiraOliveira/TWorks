@@ -1,5 +1,5 @@
 package TWorks;
-
+/*
 import java.util.*;
 import java.util.ArrayList;
 import java.util.List;
@@ -75,6 +75,7 @@ public class Hotel {
 	}
 
 }
+
 //	public int calRegularPrice(int qtdWeekday, int qtdWeekend){
 //		return ((weekday_regular_price  qtdWeekday) + (weekend_regular_price  qtdWeekend));
 //	}
@@ -87,6 +88,6 @@ public class Hotel {
 
 
 //}
-
+*/
 
 
